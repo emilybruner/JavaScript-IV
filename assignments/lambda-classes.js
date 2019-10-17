@@ -143,11 +143,12 @@ const kevin = new ProjectManager({
 // Testing
 
 console.log(tommy.catchPhrase);
-console.log(emily.PRAssignment("JavaScript-IV"));
+console.log(emily.PRAssignment('JavaScript-IV'));
 console.log(kevin.standUp('Web 25 lecture'));
 console.log(brit.demo('flexbox'));
 console.log(austen.speak());
 console.log(kai.listSubjects());
 console.log(emily.sprintChallenge('JavaScript'));
 console.log(tommy.debugsCode(emily, 'Less'));
-console.log(josh.grade(kai, "JavaScript"));
+console.log(josh.grade(kai, 'JavaScript'));
+console.log(kevin.speak());
